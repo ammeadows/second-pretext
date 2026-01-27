@@ -8,5 +8,50 @@
       A first paragraph with some space for notes below it.
     </p>
 
+    <tabular halign="center">
+        <row>
+          <cell>
+          </cell>
+          <cell bottom="medium">
+            a
+          </cell>
+          <cell bottom="medium">
+            b
+          </cell>
+          <cell bottom="medium">
+            c
+          </cell>
+        </row>
+        <row>
+          <cell halign="right" right="medium">
+            w
+          </cell>
+          <cell>
+            1
+          </cell>
+          <cell>
+            2
+          </cell>
+          <cell right="medium">
+            3
+          </cell>
+        </row>
+        <row>
+          <cell halign="right" right="medium">
+            x
+          </cell>
+          <cell>
+            4
+          </cell>
+          <cell>
+            5
+          </cell>
+          <cell right="medium">
+            6
+          </cell>
+        </row>
+        
+      </tabular>
+
   </page>
 </handout>

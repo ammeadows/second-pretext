@@ -2,12 +2,12 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="activity-01-intro-activity">
-  <title>Introduction Activity</title>
+  <title>My First Activity</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      This is the introduction to the activity.
+      Let's start doing some math!
     </p>
   </introduction>
 
@@ -15,7 +15,9 @@
   <exercise workspace="2in">
     <statement>
       <p>
-        This is the first exercise.
+        Find the sum of the first 10 positive integers, <md>
+          <mrow>  \sum_{i=1}^{10} i \amp = 1+2+\cdots+10</mrow>
+        <mrow> \amp = 55</mrow></md>.
       </p>
     </statement>
   </exercise>

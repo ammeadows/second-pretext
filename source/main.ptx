@@ -6,9 +6,9 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Course Name (change me)</title>
+    <title>Discrete Mathematics</title>
 
-    <subtitle>MATH xxx Semester 20xx</subtitle>
+    <subtitle>MATH 200 Fall 2027</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
@@ -56,7 +56,7 @@
     <chapter xml:id="handouts">
       <title>Handouts</title>
       <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
+      <xi:include href="./handouts/handout-template.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">
