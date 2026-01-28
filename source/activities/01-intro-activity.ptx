@@ -22,4 +22,23 @@
     </statement>
   </exercise>
 
+  <exercise workspace="2in">
+    <statement>
+      <p>
+      </p>
+      <figure xml:id="fig_tst">
+        <caption>This is my test figure</caption>
+        <image source="images/nz-landscape.jpg" width="80%"/>
+      </figure>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>(\Rightarrow)</m> Suppose <m>(a_{n})</m> is a convergent sequence and <m>(a_{m_k})</m> is a subsequence of <m>(a_{n})</m>. By lemma 5.9 <m>m_{k} > k</m>, so <m>\forall k > N, m_{k} > N</m> so <m>|a_{m_k}- L| &#x3C; \e</m> holds.
+      </p>
+    </statement>
+  </exercise>
+
 </worksheet>

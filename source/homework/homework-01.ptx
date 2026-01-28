@@ -1,21 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework 01</title>
-  <introduction>
-    <p>
-      <alert>Instructions:</alert> Complete all the exercises below and submit your work by the due date.
-    </p>
-  </introduction>
 
-  <page>
-    <exercise>
-      <statement>
-        <p>
-          This is the first homework exercise.
-        </p>
-      </statement>
-    </exercise>
 
-  </page>
+
+<!-- div attr= class="center"-->
+	<title>
+		MATH 351 Homework
+	</title>
+
+	<p>
+		Analysis Due at 2pm Monday 9/25
+	</p><!--</div attr= class="center">-->
+
+	<p>
+		Read Chapter 2 of the book. For this homework, using LaTeX gives one point of extra credit for each problem.
+	</p>
+
+	<p><ol>
+		<li>
+			<p>
+				Prove that if <m>A</m> and <m>B</m> are countably infinite sets, then so is <m>A\cup B</m>.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Given any set <m>A</m>, consider the dodgeball set <m>D=\{X,O\}</m>. Show that set <m>F</m> consisting of all functions <m>f:A\rightarrow D</m> has the same cardinality as the power set <m>\mathcal{P}(A)</m> consisting of all subsets of <m>A</m>.
+			</p>
+		</li>
+
+	</ol></p>
+
+<!-- div attr= class="defn"-->
+	<p>
+		<term>Definition 1</term>.  Given a countable collection of sets <m>A_n</m>, <m>n\in \mathbb{N}</m>, we define the intersection and union of these sets as <me>\bigcap_{n=1}^\infty A_n = \{x \, | \, \forall n\in \mathbb{N}, x\in A_n\} \qquad \bigcup_{n=1}^\infty A_n = \{ x\, | \, \exists n\in \mathbb{N}\hbox{ s.t.\ } x\in A_n\}</me>
+	</p><!--</div attr= class="defn">-->
+
+	<p><ol>
+		<li>
+			<p>
+				Nested intervals
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Use one of the definition above to restate the Nested Interval Property.
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Find with proof a sequence of nonempty nested intervals of the form <m>I_n=(a_n, b_n)</m> such that <m>\bigcap_{n=1}^\infty I_n =\emptyset</m>.
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						What does this say about the Nested Interval Property?
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Find with proof a sequence of (not necessarily nested) intervals of the form <m>I_n = [a_n, b_n]</m> such that <m>\bigcup_{n=1}^\infty I_n = (0,1)</m>.
+			</p>
+		</li>
+
+		<li>
+			<p>
+				Consider the intervals <m>A_n = \{ x\in \mathbb{R}\, | \, x\ge n\}</m>.
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Are the sets <m>A_n</m> nested? Why or why not?
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Find with proof the intersection <m>\displaystyle\bigcap_{n=1}^\infty A_n</m>.
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						What does this say about the Nested Interval Property?
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+		<li>
+			<p>
+				Suppose <m>A</m> is a nonempty bounded set of real numbers and <m>z</m> is an upper bound for <m>A</m>.
+			</p>
+		
+			<p><ol>
+				<li>
+					<p>
+						Prove or disprove: if <m>z\in A</m>, then <m>z=\sup(A)</m>.
+					</p>
+				</li>
+		
+				<li>
+					<p>
+						Prove or disprove: if <m>z=\sup(A)</m>, then for every <m>\varepsilon&gt;0</m>, there is some <m>x\in A</m> such that <m>x&gt;z-\varepsilon/2</m>.
+					</p>
+				</li>
+		
+			</ol></p>
+		</li>
+
+	</ol></p>
+
+
+
+
 </worksheet>
