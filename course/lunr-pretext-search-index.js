@@ -42,8 +42,8 @@ var ptx_lunr_docs = [
   "url": "activity-01-intro-activity.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.    "
+  "title": "My First Activity",
+  "body": " My First Activity    Let's start doing some math!      Find the sum of the first 10 positive integers, .         This is my test figure         Suppose is a convergent sequence and is a subsequence of . By lemma 5.9 , so so holds.    "
 },
 {
   "id": "activity-01-intro-activity-3",
@@ -52,25 +52,52 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  This is the first exercise.   "
+  "body": "  Find the sum of the first 10 positive integers, .   "
 },
 {
-  "id": "handouts",
-  "level": "1",
-  "url": "handouts.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Handouts",
-  "body": " Handouts    "
+  "id": "activity-01-intro-activity-4",
+  "level": "2",
+  "url": "activity-01-intro-activity.html#activity-01-intro-activity-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "     This is my test figure     "
 },
 {
-  "id": "homework",
+  "id": "activity-01-intro-activity-5",
+  "level": "2",
+  "url": "activity-01-intro-activity.html#activity-01-intro-activity-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "   Suppose is a convergent sequence and is a subsequence of . By lemma 5.9 , so so holds.   "
+},
+{
+  "id": "handouts-2",
   "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
+  "url": "handouts-2.html",
+  "type": "Handout",
   "number": "",
-  "title": "Homework",
-  "body": " Homework    "
+  "title": "Handout Title",
+  "body": " Handout Title   A first paragraph with some space for notes below it.   "
+},
+{
+  "id": "homework-2",
+  "level": "1",
+  "url": "homework-2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "MATH 351 Homework",
+  "body": "  MATH 351 Homework  Analysis Due at 2pm Monday 9\/25  Read Chapter 2 of the book. For this homework, using LaTeX gives one point of extra credit for each problem.    Prove that if and are countably infinite sets, then so is .    Given any set , consider the dodgeball set . Show that set consisting of all functions has the same cardinality as the power set consisting of all subsets of .      Definition 1 . Given a countable collection of sets , , we define the intersection and union of these sets as     Nested intervals    Use one of the definition above to restate the Nested Interval Property.    Find with proof a sequence of nonempty nested intervals of the form such that .    What does this say about the Nested Interval Property?      Find with proof a sequence of (not necessarily nested) intervals of the form such that .    Consider the intervals .    Are the sets nested? Why or why not?    Find with proof the intersection .    What does this say about the Nested Interval Property?      Suppose is a nonempty bounded set of real numbers and is an upper bound for .    Prove or disprove: if , then .    Prove or disprove: if , then for every , there is some such that .      "
+},
+{
+  "id": "homework-2-5",
+  "level": "2",
+  "url": "homework-2.html#homework-2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Definition 1 "
 }
 ]
 
