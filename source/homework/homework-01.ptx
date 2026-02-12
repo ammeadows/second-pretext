@@ -26,7 +26,9 @@
 
 		<li>
 			<p>
-				Given any set <m>A</m>, consider the dodgeball set <m>D=\{X,O\}</m>. Show that set <m>F</m> consisting of all functions <m>f:A\rightarrow D</m> has the same cardinality as the power set <m>\mathcal{P}(A)</m> consisting of all subsets of <m>A</m>.
+				Given any set <m>A</m>, consider the dodgeball set <m>D=\{X,O\}</m>. 
+				Show that set <m>F</m> consisting of all functions <m>f:A\rightarrow D</m> 
+				has the same cardinality as the power set <m>\mathcal{P}(A)</m> consisting of all subsets of <m>A</m>.
 			</p>
 		</li>
 
@@ -34,7 +36,11 @@
 
 <!-- div attr= class="defn"-->
 	<p>
-		<term>Definition 1</term>.  Given a countable collection of sets <m>A_n</m>, <m>n\in \mathbb{N}</m>, we define the intersection and union of these sets as <me>\bigcap_{n=1}^\infty A_n = \{x \, | \, \forall n\in \mathbb{N}, x\in A_n\} \qquad \bigcup_{n=1}^\infty A_n = \{ x\, | \, \exists n\in \mathbb{N}\hbox{ s.t. } x\in A_n\}</me>
+		<term>Definition 1</term>.  Given a countable collection of sets 
+		<m>A_n</m>, <m>n\in \mathbb{N}</m>, we define the intersection and union of these 
+		sets as <me>\bigcap_{n=1}^\infty A_n = \{x \, | \, \forall n\in \mathbb{N}, 
+			x\in A_n\} \qquad \bigcup_{n=1}^\infty A_n = \{ x\, | \, \exists n\in \mathbb{N}
+			\hbox{ s.t. } x\in A_n\}</me>
 	</p><!--</div attr= class="defn">-->
 
 	<p><ol>
