@@ -28,7 +28,7 @@
       </p>
       <figure xml:id="fig_tst">
         <caption>This is my test figure</caption>
-        <image source="images/nz-landscape.jpg" width="80%"/>
+        <image source="images/slide-pos.jpg" width="80%"/>
       </figure>
     </statement>
   </exercise>
