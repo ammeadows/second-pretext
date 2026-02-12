@@ -34,7 +34,7 @@
 
 <!-- div attr= class="defn"-->
 	<p>
-		<term>Definition 1</term>.  Given a countable collection of sets <m>A_n</m>, <m>n\in \mathbb{N}</m>, we define the intersection and union of these sets as <me>\bigcap_{n=1}^\infty A_n = \{x \, | \, \forall n\in \mathbb{N}, x\in A_n\} \qquad \bigcup_{n=1}^\infty A_n = \{ x\, | \, \exists n\in \mathbb{N}\hbox{ s.t.\ } x\in A_n\}</me>
+		<term>Definition 1</term>.  Given a countable collection of sets <m>A_n</m>, <m>n\in \mathbb{N}</m>, we define the intersection and union of these sets as <me>\bigcap_{n=1}^\infty A_n = \{x \, | \, \forall n\in \mathbb{N}, x\in A_n\} \qquad \bigcup_{n=1}^\infty A_n = \{ x\, | \, \exists n\in \mathbb{N}\hbox{ s.t. } x\in A_n\}</me>
 	</p><!--</div attr= class="defn">-->
 
 	<p><ol>
