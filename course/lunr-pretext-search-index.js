@@ -50,7 +50,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "activity-01-intro-activity.html#activity-01-intro-activity-3",
   "type": "Worksheet Exercise",
-  "number": "1",
+  "number": "SF1",
   "title": "",
   "body": "  Find the sum of the first 10 positive integers, .   "
 },
